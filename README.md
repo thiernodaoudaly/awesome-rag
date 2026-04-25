@@ -1,10 +1,7 @@
 # Awesome Retrieval-Augmented Generation (RAG)
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-[![GitHub stars](https://img.shields.io/github/stars/thiernodaoudaly/awesome-rag?style=social)](https://github.com/thiernodaoudaly/awesome-rag/stargazers)
-[![License](https://img.shields.io/github/license/thiernodaoudaly/awesome-rag)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
-[![Last Commit](https://img.shields.io/github/last-commit/thiernodaoudaly/awesome-rag)](https://github.com/thiernodaoudaly/awesome-rag/commits)
 
 ## Table of Contents
 
